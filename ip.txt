@@ -1,0 +1,4 @@
+192.168.1.7 ansible_ssh_user=root ansible_ssh_pass="nikhil176#" ssh_connection=ssh
+192.168.1.8 ansible_ssh_user=root ansible_ssh_pass="nikhil176#" ssh_connection=ssh
+
+
